@@ -1,5 +1,4 @@
 # React-Native
 ## Images
-### Animals Category
-![Animals Category](https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/AnimalsCategory.png)
-<hr>
+<img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/LoadingScreen.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/HomeScreen.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/AnimalsCategory.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/CapitalsCategory.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/CartoonsCategory.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/CultureCategory.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/FlagsCategory.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/SportsCategory.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/TrueAnswerIcon.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/WrongAnswerIcon.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/ScorePage.png" /><img src="https://github.com/bayogluteoman/React-Native/blob/main/QAsk/images/ChangeAppPage.png" />
+
